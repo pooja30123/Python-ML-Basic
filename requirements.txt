@@ -1,0 +1,31 @@
+# Core data science libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+plotly
+bokeh
+
+# Machine Learning
+scikit-learn
+
+# Optional for data handling and stats
+scipy
+statsmodels
+
+# Interactive notebooks
+jupyter
+notebook
+
+# Web scraping (optional, if you use in scrapping folder)
+requests
+beautifulsoup4
+lxml
+
+# Flask (optional, if you use flask notebooks)
+Flask
+
+# MongoDB client (optional, if MongoDB is part of assignments)
+pymongo
